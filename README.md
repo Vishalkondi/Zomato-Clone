@@ -1,71 +1,73 @@
-# Getting Started with Create React App
+🍽️ Zomato Clone
+📖 Description
+This is a Zomato Clone created using React.js, replicating the popular food delivery platform's user interface. The project focuses on recreating the design and essential UI elements to practice front-end development and React.js concepts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Features
+Homepage: Includes restaurant listings, search bar, and categories.
+Restaurant Page: Detailed restaurant view with menu and reviews.
+Search Functionality: Search bar to filter restaurants or dishes.
+Responsive Design: Optimized for desktop, tablet, and mobile devices.
+Reusable Components: Modular and dynamic React components for scalability.
+🖼️ Screenshots
+Feature	Screenshot
+Homepage	
+Restaurant Page	
+Mobile View	
+📂 Project Structure
+bash
+Copy code
+src/
+├── assets/           # Images, icons, and static files
+├── components/       # Reusable React components
+│   ├── Header/       # Navbar and search bar
+│   ├── Footer/       # Footer section
+│   ├── Card/         # Restaurant or Dish cards
+│   ├── Slider/       # Category slider
+├── pages/            # Page-level components (Home, Restaurant)
+├── styles/           # CSS or SCSS files
+├── App.js            # Main app component
+├── index.js          # Entry point
+├── utils/            # Utility functions (e.g., dummy data)
+🛠️ Installation and Setup
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/zomato-clone.git
+Navigate to the project directory:
+bash
+Copy code
+cd zomato-clone
+Install dependencies:
+bash
+Copy code
+npm install
+Start the development server:
+bash
+Copy code
+npm start
+Open http://localhost:3000 in your browser to view the clone.
+⚙️ Built With
+React.js: For building the UI components.
+CSS/SCSS: For styling the application.
+React Router: For navigation between pages.
+Mock Data: JSON-based data for restaurant listings and menus.
+📦 Deployment
+Build the project:
+bash
+Copy code
+npm run build
+Deploy the build/ folder to any hosting service:
+Netlify
+Vercel
+GitHub Pages
+🌟 Features to Add (Future Enhancements)
+Backend Integration: Connect to a backend API for real-time data.
+Authentication: Add login/signup functionality.
+Advanced Filtering: Filters for cuisine, price range, ratings, etc.
+Cart Functionality: Add dishes to the cart and proceed to checkout.
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
-## Available Scripts
+📝 License
+This project is licensed under the MIT License.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Zomato-Clone
