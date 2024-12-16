@@ -1,4 +1,5 @@
-<h1 align="center">🍽️ Zomato Clone</h1> <p align="center"> A modern and responsive Zomato UI clone built with React.js. This project replicates the design and essential functionalities of the popular food delivery platform, Zomato. </p> <p align="center"> <img src="./assets/homepage.png" alt="Zomato Clone Homepage" width="600"/> </p>
+<h1 align="center">🍽️ Zomato Clone</h1> <p align="center"> A modern and responsive Zomato UI clone built with React.js. This project replicates the design and essential functionalities of the popular food delivery platform, Zomato. </p> <p align="center"> <img src="![Zomato-Logo](https://github.com/user-attachments/assets/325c07fc-07ae-4a65-beda-9f47c2f15361)
+"/> </p>
 🌟 Features
 ✨ Homepage
 
