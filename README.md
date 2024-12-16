@@ -16,7 +16,8 @@ Optimized for desktop, tablet, and mobile devices
 Modular React components for scalability
 🎨 Screenshots
 Desktop View	Mobile View
-<img src="./assets/homepage.png" alt="Homepage" width="400"/>	<img src="./assets/mobile.png" alt="Mobile View" width="200"/>
+<img src="![BackGround](https://github.com/user-attachments/assets/f736d2ce-81c1-4fd5-a71e-b14819a48b16)
+
 🛠️ Tech Stack
 React.js: Core library for building user interfaces
 CSS/SCSS: Styling the components
